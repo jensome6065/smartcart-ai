@@ -1,0 +1,32 @@
+[
+  {
+    "item_id": 1,
+    "category": "protein",
+    "price_usd": 7.03,
+    "available": true
+  },
+  {
+    "item_id": 4,
+    "category": "grain",
+    "price_usd": 2.08,
+    "available": true
+  },
+  {
+    "item_id": 7,
+    "category": "produce",
+    "price_usd": 2.49,
+    "available": true
+  },
+  {
+    "item_id": 11,
+    "category": "dairy",
+    "price_usd": 5.47,
+    "available": true
+  },
+  {
+    "item_id": 16,
+    "category": "canned",
+    "price_usd": 0.97,
+    "available": true
+  }
+]
