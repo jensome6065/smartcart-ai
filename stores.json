@@ -1,0 +1,23 @@
+[
+  {
+    "store_id": "aldi_cambridge",
+    "name": "Aldi Cambridge",
+    "zip": "02139",
+    "delivery_fee": 3.99,
+    "logo": "\ud83d\uded2"
+  },
+  {
+    "store_id": "target_somerville",
+    "name": "Target Somerville",
+    "zip": "02143",
+    "delivery_fee": 5.99,
+    "logo": "\ud83c\udfaf"
+  },
+  {
+    "store_id": "wholefoods_central",
+    "name": "Whole Foods Central Sq",
+    "zip": "02139",
+    "delivery_fee": 0.0,
+    "logo": "\ud83e\udd6c"
+  }
+]
