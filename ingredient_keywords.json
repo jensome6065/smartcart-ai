@@ -1,0 +1,95 @@
+{
+  "chicken": [
+    1,
+    20
+  ],
+  "tofu": [
+    2
+  ],
+  "salmon": [
+    3,
+    20
+  ],
+  "rice": [
+    4
+  ],
+  "quinoa": [
+    5
+  ],
+  "pasta": [
+    6
+  ],
+  "broccoli": [
+    7
+  ],
+  "spinach": [
+    8
+  ],
+  "tomato": [
+    9,
+    26
+  ],
+  "avocado": [
+    10
+  ],
+  "yogurt": [
+    11
+  ],
+  "eggs": [
+    12
+  ],
+  "olive oil": [
+    13
+  ],
+  "garlic": [
+    14
+  ],
+  "onion": [
+    15
+  ],
+  "black beans": [
+    16
+  ],
+  "salsa": [
+    17
+  ],
+  "pesto": [
+    18
+  ],
+  "lime": [
+    19
+  ],
+  "broth": [
+    20
+  ],
+  "chickpeas": [
+    21
+  ],
+  "cucumber": [
+    22
+  ],
+  "romaine": [
+    23
+  ],
+  "tortilla": [
+    24
+  ],
+  "parmesan": [
+    25
+  ],
+  "diced tomatoes": [
+    26
+  ],
+  "turkey": [
+    27
+  ],
+  "shrimp": [
+    28
+  ],
+  "bell pepper": [
+    29
+  ],
+  "carrot": [
+    30
+  ]
+}
